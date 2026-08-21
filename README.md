@@ -1,30 +1,47 @@
 # Abdul Monim Rehan
 
-Law graduate transitioning into Backend and AI Engineering.
+**Backend & AI Engineer** 
+Building LLM powered applications.
+
+monim.rehan@hotmail.com
 
 ## What I Build
-Scalable backend systems and LLM powered applications, with a focus on legal technology, document intelligence, and intelligent automation.
+Backend APIs and services, LLM powered applications, and intelligent automation systems with a focus on:
+- LLM powered workflows and automation systems
+- RAG Pipelines and document intelligence 
+- Backend APIs with authentication, persistence, testing and deployment 
 
 ## Tech Stack
-Backend: Python, FastAPI, PostgreSQL, SQLAlchemy
+**Backend**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic
 
-AI: LangChain, ChromaDB, RAG
+**AI**: LLM APIs, LangChain, RAG pipelines, ChromaDB, sentence-transformers
 
-Security and APIs: JWT Authentication, REST APIs
+**Testing**: Pytest
+
+**Infrastructure**: Redis, Docker
+
+**Security and APIs**: JWT Authentication, RBAC, REST APIs
 
 ## Projects
 - [Legal AI Analyser](https://github.com/AMRQ10/legal-ai-analyser) — 
-  AI powered contract analysis with RAG, PDF processing, and authentication
+  AI powered contract analysis with RAG, PDF document processing, LLM APIs, and authentication
+  
+- [Legal Research Assistant](https://github.com/AMRQ10/legal-research-assistant) —
+  LLM powered legal research assistant with multi turn conversations and session memory
+  
 - [Legal Notes API](https://github.com/AMRQ10/legal-notes-api) — 
   Production REST API with PostgreSQL and cloud deployment
-- [Employee Notes CLI](https://github.com/AMRQ10/employee-notes-cli) — 
-  Modular CLI application demonstrating OOP architecture
-- [Backend Authentication System](https://github.com/AMRQ10/backend-auth-system) — FastAPI backend implementing JWT authentication, RBAC, SQLAlchemy ORM, PostgreSQL, Alembic migrations, Docker, Redis
+  
+- [Backend Authentication System](https://github.com/AMRQ10/backend-auth-system) —
+  FastAPI backend implementing JWT authentication, RBAC, SQLAlchemy ORM, PostgreSQL, Alembic migrations, Docker, and Redis
+
+## Background
+**University of London - LLB**
+Building at the intersection of law and AI engineering.
 
 ## Currently
-* Building production ready backend systems
-* Expanding into AI engineering and LLM applications
-* Exploring legal AI and intelligent automation
+Building production oriented backend systems and LLM powered applications, with a focus on backend and AI engineering. 
+
 
 
 
