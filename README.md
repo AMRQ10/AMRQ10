@@ -37,6 +37,7 @@ Backend APIs and services, LLM powered applications, and intelligent automation 
 
 ## Background
 **University of London - LLB**
+
 Building at the intersection of law and AI engineering.
 
 ## Currently
